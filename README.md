@@ -66,4 +66,4 @@ I am going to continue learning CSS in more depth, especially new properties lik
 
 ## Acknowledgments
 
-Thanks to Fronend Mentor, GitHub, Netlify, CodePen, and all the amazing teachers out there for providing me an opportunity to learn and practice the skills completely freely! Thank you so much everyone! 
+Thanks to [Fronend Mentor](www.frontendmentor.io), [GitHub](www.github.com), [Netlify](https://www.netlify.com/), [CodePen](www.codepen.io), and all the amazing teachers out there for providing me an opportunity to learn and practice the skills completely freely! Thank you so much everyone! 
