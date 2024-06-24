@@ -1,6 +1,4 @@
-1. **You**: can you read the README.md?
-2. **ChatGPT**: I'm unable to read the README.md file directly, but you can copy and paste its content here, and I'll be happy to help you understand it or provide assistance based on the information provided in the file.
-3. **You**: # Frontend Mentor - QR code component
+# Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
@@ -87,29 +85,3 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
-
-4. **ChatGPT**: To complete this coding challenge, you'll need a basic understanding of HTML and CSS. Here's a step-by-step guide on how you can approach this challenge:
-
-1. **Set up your project:** Start by creating a new project folder on your local machine. You can use any code editor of your choice to write your HTML and CSS code.
-
-2. **Download the design files:** Download the design files from the `/design` folder. You'll find a mobile and a desktop version of the design.
-
-3. **Plan your approach:** Before diving into coding, take some time to analyze the design files and plan how you'll tackle the project. Note down the different sections and elements you'll need to create.
-
-4. **Create your HTML structure:** Begin by writing the HTML code for your project. Structure your content using appropriate HTML tags. Focus on creating a semantically correct and well-structured HTML document.
-
-5. **Add the base styles:** Write the base styles for your project in your CSS file. Set the `font-family`, `font-size`, and other general styles that apply to the entire document.
-
-6. **Style the top section:** Start styling the top section of the QR code component. Take a look at the design file and determine the colors, font sizes, margins, and padding values. Apply these styles using CSS selectors.
-
-7. **Style the QR code:** Move on to styling the QR code itself. You'll need to create a square container with a border and apply a background color to mimic the design. You can use the `background-image` property to add the actual QR code image.
-
-8. **Style the bottom section:** Finally, style the bottom section of the component. Pay attention to the alignment, font sizes, and spacing between elements. Use CSS selectors to target specific elements and apply the appropriate styles.
-
-9. **Test and make adjustments:** After completing the styling, test your project in different devices and screen sizes. Make any necessary adjustments to ensure it looks as close to the design as possible.
-
-10. **Deploy your project:** Once you're satisfied with your solution, you can deploy your project to a hosting service of your choice. GitHub Pages, Vercel, and Netlify are all good options. Follow their respective documentation to deploy your project.
-
-11. **Submit your solution:** Once your project is deployed, submit your solution on the Frontend Mentor platform. You can find more details on how to do this in the ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248).
-
-Remember to ask questions and seek help from the community if you encounter any difficulties during the challenge. Good luck, and have fun building!
